@@ -22,3 +22,22 @@ Once logged into the admin panel, you will be able to insert new pages, edit the
 </br>
 Down below there is a quick preview of the project structure.
 
+<h2>Landing page</h2>
+
+![Homepage](https://github.com/Andrrew94/blog-cms/blob/master/preview/Homepage.JPG)
+
+<h2>Admin panel</h2>
+
+![Admin panel](https://github.com/Andrrew94/blog-cms/blob/master/preview/Admin-panel.JPG)
+
+<h2>New page</h2>
+
+![New page](https://github.com/Andrrew94/blog-cms/blob/master/preview/New-page.JPG)
+
+<h2>Edit page</h2>
+
+![Edit page](https://github.com/Andrrew94/blog-cms/blob/master/preview/Edit-page.JPG)
+
+<h2>Single page</h2>
+
+![Page](https://github.com/Andrrew94/blog-cms/blob/master/preview/Page.JPG)
