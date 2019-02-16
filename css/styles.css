@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #ddd;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  margin-top: 30px;
+}
+
+th {
+  text-align: left;
+  margin-bottom: 10px;
+  font-size: 25px;
+  text-transform: capitalize;
+  border-bottom : 1px solid #bbb;
+  padding : 15px 0;
+}
+
+td {
+  padding : 8px 0;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 40px;
+}
+
+.page-list {
+  display: flex;
+}
+
+.page {
+  padding : 0 20px;
+}
+
+.page a {
+  text-decoration: underline;
+  color: #000;
+  font-size: 25px;
+}
+
+.page-title {
+  font-size : 40px;
+  margin-bottom : 15px;
+}
+
+.page-body {
+  border: 1px solid #ccc;
+  padding : 20px;
+  margin-bottom : 10px;
+}
+
+.page-create-date {
+  text-align: right;
+}
+
+.add-page-title,
+.edit-page-title{
+  text-align: center;
+  margin: 20px;
+  font-size : 30px;
+}
+
+.add-form,
+.edit-form {
+  max-width : 500px;
+  margin : 0 auto;
+}
+
+.add-form input,
+.edit-form input {
+  width : 100%;
+  padding : 10px;
+}
+
+.add-form textarea,
+.edit-form textarea {
+  width : 100%;
+  resize : none;
+}
+
+.submit-btn {
+  font-size : 25px;
+  font-weight : 900;
+  color: green;
+  padding : 10px 15px;
+  background-color: transparent;
+  border: none;
+  width : 100px;
+}
